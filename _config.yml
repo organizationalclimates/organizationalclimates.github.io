@@ -4,7 +4,7 @@
 title: My website
 
 # Short description of your site
-description: Development Economics Lab
+description: A virtual proof that I'm awesome
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -51,9 +51,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/img/header.jpg"
- footer-img: "/img/header.jpg"
- page-img: "/img/header.jpg"
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -186,7 +186,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: false
+      show-avatar: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
