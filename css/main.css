@@ -75,18 +75,6 @@ hr.small {
   text-shadow: none;
   background-color: {{ site.hover-col }};
 }
-img::selection {
-  color: white;
-  background: transparent;
-}
-img::-moz-selection {
-  color: white;
-  background: transparent;
-}
-
-img {
-  max-width: 100%;
-}
 
 .disqus-comments {
   margin-top: 30px;
@@ -140,17 +128,9 @@ img {
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
 }
-.navbar-custom .navbar-brand-logo img {
-  height: 50px;
-  -webkit-transition: height .5s ease-in-out;
-  -moz-transition: height .5s ease-in-out;
-  transition: height .5s ease-in-out;
-}
+
 .navbar-custom.top-nav-short .navbar-brand-logo {
   padding-top: 5px;
-}
-.navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 40px;
 }
 
 @media only screen and (min-width: 768px) {
