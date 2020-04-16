@@ -421,6 +421,8 @@ footer .theme-by {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
   text-shadow: 2px 2px 2px #000000;
 }
 
