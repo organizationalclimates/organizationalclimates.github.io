@@ -392,8 +392,6 @@ footer .theme-by {
   margin-top: 0;
   font-size: 35px;
   color: white;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: white;
   text-shadow: 2px 2px 2px 4px #000000;
 }
 .intro-header .page-heading .page-subheading,
@@ -405,15 +403,11 @@ footer .theme-by {
   font-weight: 300;
   margin: 10px 0 0;
   color: white;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: white;
   text-shadow: 2px 2px 2px 2px #000000;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
   color: white;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: white;
  text-shadow: 2px 2px 2px 2px #000000;
 }
 
@@ -427,8 +421,6 @@ footer .theme-by {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   color: white;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: white;
   text-shadow: 2px 2px 2px 2px #000000;
 }
 
