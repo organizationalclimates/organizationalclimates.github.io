@@ -405,14 +405,16 @@ footer .theme-by {
   font-weight: 300;
   margin: 10px 0 0;
   color: white;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: white;
+  text-shadow: 2px 2px #ff0000;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
   color: white;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
+  text-shadow: 2px 2px #ff0000;
 }
 
 .caption {
@@ -427,6 +429,7 @@ footer .theme-by {
   color: white;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
+  text-shadow: 2px 2px #ff0000;
 }
 
 #header-gh-btns {
