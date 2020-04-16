@@ -383,15 +383,18 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 70px;
   color: white;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
 
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
