@@ -384,17 +384,15 @@ footer .theme-by {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 70px;
-  color: white;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: black;
+  color: white; 
+  text-shadow: 2px 2px #323336;
 
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
   color: white;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: white;
+  text-shadow: 2px 2px #323336;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -405,16 +403,12 @@ footer .theme-by {
   font-weight: 300;
   margin: 10px 0 0;
   color: white;
-  -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 2px 2px #323336;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
   color: white;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #ff0000;
+ text-shadow: 2px 2px #323336;
 }
 
 .caption {
@@ -427,9 +421,7 @@ footer .theme-by {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   color: white;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 2px 2px #323336;
 }
 
 #header-gh-btns {
