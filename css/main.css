@@ -394,7 +394,7 @@ footer .theme-by {
   font-size: 35px;
   color: white;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: white;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -406,13 +406,13 @@ footer .theme-by {
   margin: 10px 0 0;
   color: white;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: white;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
   color: white;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: white;
 }
 
 .caption {
@@ -426,7 +426,7 @@ footer .theme-by {
   border-bottom-left-radius: 5px;
   color: white;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: white;
 }
 
 #header-gh-btns {
