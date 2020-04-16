@@ -404,9 +404,15 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .caption {
@@ -418,6 +424,9 @@ footer .theme-by {
   display: block;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 #header-gh-btns {
