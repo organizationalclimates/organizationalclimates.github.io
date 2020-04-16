@@ -385,14 +385,14 @@ footer .theme-by {
   margin-top: 0;
   font-size: 70px;
   color: white; 
-  text-shadow: 2px 2px #323336;
+  text-shadow: 2px 2px 4px #000000;
 
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
   color: white;
-  text-shadow: 2px 2px #323336;
+  text-shadow: 2px 2px 4px #000000;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -403,12 +403,12 @@ footer .theme-by {
   font-weight: 300;
   margin: 10px 0 0;
   color: white;
-  text-shadow: 2px 2px #323336;
+  text-shadow: 2px 2px 4px #000000;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
   color: white;
- text-shadow: 2px 2px #323336;
+ text-shadow: 2px 2px 4px #000000;
 }
 
 .caption {
@@ -421,7 +421,7 @@ footer .theme-by {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   color: white;
-  text-shadow: 2px 2px #323336;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 #header-gh-btns {
