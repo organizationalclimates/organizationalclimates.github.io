@@ -19,7 +19,9 @@ Past Members:
 
 Julia Bouzaher
 [blurb]
-![photo of julia](img/julia.jpg "Title Text").
+![photo of julia](img/julia.jpg).
+
+
 
 Ahana Raina
 [blurb]
