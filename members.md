@@ -1,34 +1,29 @@
 
 ## RCade Lab Team
 
-
-
-
-
 Lab Leader: Professor Vis Taraz
 
+---
 
 Current Members:
 
+**Vatsala Ramanan**
+[blurb]
 
-Vatsala Ramanan
+**Manal Fatima**
 [blurb]
 
 
-Manal Fatima
-[blurb]
-
-
+---
 
 Past Members: 
 
-
-Julia Bouzaher
+**Julia Bouzaher**
 
 ![photo of julia](img/julia.jpg).
 
-My name is Julia. I am a 2020 graduate in Economics and Statistical & Data Sciences at Smith College.
+I am a 2020 graduate in Economics and Statistical & Data Sciences at Smith College. I am interested in the environmental and development economics applications of spatial data science. I have worked with Professor Taraz since January 2019.
 
-Ahana Raina
+**Ahana Raina**
 [blurb]
 
