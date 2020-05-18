@@ -1,7 +1,9 @@
+---
+layout: page
+title: RCADE Lab Members
+---
 
-## RCade Lab Team
-
-Lab Leader: Professor Vis Taraz
+**Lab Leader: Professor Vis Taraz**
 
 ---
 
