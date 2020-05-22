@@ -16,7 +16,7 @@ My name is Vatsala Ramanan (class of 2022) and I am studying Quantitative Econom
 
 **Manal Fatima**
 
-![photo of manal](img/manal.jpg)
+![photo of manal](img/manal.jpg) 
 
 My name is Manal Fatima, class of 2023, and I am double majoring in Quantitative Economics and Middle East Studies at Smith College. I am interested in development economics as well as economic history and intend to utilize this in the field of public policy. I have worked with Professor Taraz since February 2020.
 
