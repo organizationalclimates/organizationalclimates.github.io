@@ -24,7 +24,7 @@ My name is Manal Fatima, class of 2023, and I am double majoring in Quantitative
 ---
 
 Past Members: 
-
+ 
 **Julia Bouzaher**
 
 ![photo of julia](img/julia.jpg).
