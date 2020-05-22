@@ -10,6 +10,7 @@ title: RCADE Lab Members
 Current Members:
 
 **Vatsala Ramanan**
+![photo of vatsala](img/vatsala.jpg).
 [blurb]
 
 **Manal Fatima**
