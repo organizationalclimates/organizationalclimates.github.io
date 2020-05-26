@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Current Projects
+title: Projects
 ---
