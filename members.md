@@ -4,8 +4,12 @@ title: RCADE Lab Members
 ---
 
 **Lab Leader: Professor Vis Taraz**
+
 ![photo of vatsala](img/Vis_Taraz.jpg)
-Vis Taraz is an assistant professor in the Department of Economics at Smith College.  Her research interests are in development economics and environmental economics. She earned her PhD in Economics at Yale University in 2013.  Her research touches on the topics of climate change, adaptation, agriculture, irrigation, and migration, with a regional focus on India.  
+
+Vis Taraz is an assistant professor in the Department of Economics at Smith College. Her research interests are in development economics and environmental economics. She earned her PhD in Economics at Yale University in 2013. Her research touches on the topics of climate change, adaptation, agriculture, irrigation, and migration, with a regional focus on India.
+
+
 ---
 
 Current Members:
