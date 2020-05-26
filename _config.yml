@@ -22,8 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About: "aboutme"
   Members: "members"
-  Current Projects: "current"
-  Past Projects: "past"
+  Projects: "projects"
   Publications: "publications"
   Conference Presentations: "presentations"
   Similar Research: "similar"
