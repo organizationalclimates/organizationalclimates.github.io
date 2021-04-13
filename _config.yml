@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: RCADE-Lab
+title: Collective Action + Organizational Climates
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -20,13 +20,10 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
+  Writing: "writing"
+  Resources: "resources"
+  Community: "community"
   About: "aboutme"
-  Members: "members"
-  Projects: "projects"
-  Publications: "publications"
-  Conference Presentations: "presentations"
-  Similar Research: "similar"
-  News: "news"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -62,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: RCADE-Lab
+  name: Collective Action + Organizational Climates
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,10 +67,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "rcadelab@gmail.com"
+  email: "organizationalclimates@gmail.com"
  # facebook: deanattali
-  github: rcade-lab
-  twitter: vis_taraz
+  github: 
+  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
