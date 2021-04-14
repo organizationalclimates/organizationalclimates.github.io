@@ -21,12 +21,9 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   Writing:
-    - Blog Posts:
     - Publications: "publications"
   Resources:
     - Data: "data"
-    - Analysis:
-    - Visualizations: 
   Community: "community"
   About: "about"
   
