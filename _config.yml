@@ -26,6 +26,7 @@ navbar-links:
   Resources:
     - Data: "data"
     - Analysis: "analysis"
+    - Visualizations: "visualizations"
   Community: "community"
   About: "about"
   
