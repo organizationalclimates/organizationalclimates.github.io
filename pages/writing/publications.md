@@ -1,7 +1,5 @@
  ---
 layout: page
-title: Publications
-permalink: "publications"
+title: Data
+permalink: "data"
 ---
- 
- 
