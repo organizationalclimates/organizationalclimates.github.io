@@ -22,12 +22,8 @@ description: A virtual proof that I'm awesome
 navbar-links:
   Writing: "writing"
     - Publications: "publications"
-    - Blog Posts: "blogposts"
-    - Crowdsourcing: "crowdsourcing"
   Resources: "resources"
     - Data: "data"
-    - Analysis: "analysis"
-    - Visualizations: "visualizations"
   Community: "community"
   About: "about"
   
