@@ -20,9 +20,9 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  Writing: "writing"
+  Writing:
     - Publications: "publications"
-  Resources: "resources"
+  Resources:
     - Data: "data"
   Community: "community"
   About: "about"
