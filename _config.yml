@@ -20,7 +20,8 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  Writing: "community"
+  Writing:
+    - Publications: "publications"
   Resources:
     - Data: "data"
   Community: "community"
