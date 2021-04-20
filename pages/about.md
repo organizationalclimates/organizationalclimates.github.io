@@ -25,6 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
               <option>Collaboration</option>
               <option>Learning</option>
               <option>Financial Industry Professional</option>
+              <option>Staying up to date</option>
             </select>
           </div>
           <hr>
