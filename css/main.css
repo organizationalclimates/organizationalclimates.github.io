@@ -109,11 +109,33 @@ hr.small {
   letter-spacing: 1px;
 }
 
+
+/* --- test --- */
+
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
   color: {{ site.navbar-text-col }};
 }
+
+.nav-underline a {
+  border-bottom: transparent solid 2px;
+  padding-bottom: 40px;
+}
+
+.nav-underline a:hover {
+  border-bottom: red solid 2px;
+}
+
+.navbar-nav.nav-underline>li>a {
+  padding: 0px;
+}
+
+.navbar-nav.nav-underline>li {
+  padding: 15px;
+}
+
+/* --- test --- */
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
