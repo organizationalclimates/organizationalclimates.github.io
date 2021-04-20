@@ -93,7 +93,8 @@ hr.small {
 
 /* --- Navbar --- */
 
-.navbar-custom {
+
+.topnav a {
   background-color: {{ site.navbar-col }};
   border-bottom: 2px solid #08d126;
   font-family: Arial, sans-serif;
@@ -103,10 +104,14 @@ hr.small {
   {% endif %}
 }
 
-.navbar-custom .nav li a {
-  font-size: 12px;
-  letter-spacing: 1px;
+.topnav a:hover {
+  border-bottom: 2px solid #08d126;
 }
+
+.topnav a.active {
+  border-bottom: 2px solid #08d126;
+}
+
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
