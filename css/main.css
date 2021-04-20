@@ -50,7 +50,7 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 300px) {
   .main-content {
     padding-top: 130px;
   }
@@ -95,7 +95,7 @@ hr.small {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 4px solid #08d126;
+  border-bottom: 2px solid #08d126;
   font-family: Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
@@ -106,39 +106,6 @@ hr.small {
 .navbar-custom .nav li a {
   font-size: 12px;
   letter-spacing: 1px;
-}
-
-
-/* --- test --- */
-
-.nav-underline a {
-  border-bottom: transparent solid 2px;
-  padding-bottom: 40px;
-}
-
-.nav-underline a:hover {
-  border-bottom: red solid 2px;
-}
-
-.navbar-nav.nav-underline>li>a {
-  padding: 0px;
-}
-
-.navbar-nav.nav-underline>li {
-  padding: 15px;
-}
-
-/* --- test --- */
-
-.navbar-custom .navbar-brand-logo {
-  padding-top: 0;
-  -webkit-transition: padding .5s ease-in-out;
-  -moz-transition: padding .5s ease-in-out;
-  transition: padding .5s ease-in-out;
-}
-
-.navbar-custom.top-nav-short .navbar-brand-logo {
-  padding-top: 4px;
 }
 
 @media only screen and (min-width: 768px) {
