@@ -132,7 +132,7 @@ hr.small {
     text-decoration: underline;
 }
 	
-.navbar-custom .nav > li a:hover {
+.navbar-nav > li > a:hover {
     text-decoration: underline;
 }
 
