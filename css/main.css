@@ -93,19 +93,11 @@ hr.small {
 
 /* --- Navbar --- */
 
-menu a {
-    color: #FFF;
-    background-color: #252525;
-    text-decoration: none;
-    border-bottom: transparent solid 1px;
-    padding-bottom: 5px;
-}
 
-menu a:hover {
-    color: #FFF;
-    background-color: #252525;
-    border-bottom: red solid 1px;
+.navbar-custom .nav .navlinks-parent:hover {
+    text-decoration: underline;
 }
+		
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
