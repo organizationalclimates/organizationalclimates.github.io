@@ -103,7 +103,7 @@ hr.small {
   {% endif %}
 }
 
-.navbar-custom:hover {
+.navbar-custom .nav .navlinks-container:hover {
     text-decoration: underline;
 }
 	
