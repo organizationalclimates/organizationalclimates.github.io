@@ -115,6 +115,16 @@ hr.small {
   color: {{ site.hover-col }};
 }
 
+
+.navbar-custom .nav li a:hover {
+    text-decoration: underline;
+}
+.navbar-custom .navbar-brand:hover {
+    text-decoration: underline;
+}
+
+
+
 .navbar-custom .nav li a {
   font-weight: normal;
   color: {{ site.navbar-text-col }};
