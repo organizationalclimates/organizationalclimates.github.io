@@ -94,7 +94,7 @@ hr.small {
 /* --- Navbar --- */
 
 
-.topnav a {
+.navlinks-parent a {
   background-color: {{ site.navbar-col }};
   border-bottom: 2px solid #08d126;
   font-family: Arial, sans-serif;
@@ -104,11 +104,11 @@ hr.small {
   {% endif %}
 }
 
-.topnav a:hover {
+.navlinks-parent a:hover {
   border-bottom: 2px solid #08d126;
 }
 
-.topnav a.active {
+.navlinks-parent a.active {
   border-bottom: 2px solid #08d126;
 }
 
