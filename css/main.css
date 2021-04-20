@@ -23,7 +23,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: Arial, sans-serif;
-  font-weight: 800;
+  font-weight: normal;
 }
 a {
   color: {{ site.link-col }};
@@ -104,19 +104,12 @@ hr.small {
 }
 
 .navbar-custom .nav li a {
-  text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 1px;
 }
 
 
 /* --- test --- */
-
-.navbar-custom .navbar-brand,
-.navbar-custom .nav li a {
-  font-weight: 800;
-  color: {{ site.navbar-text-col }};
-}
 
 .nav-underline a {
   border-bottom: transparent solid 2px;
@@ -137,13 +130,6 @@ hr.small {
 
 /* --- test --- */
 
-.navbar-custom .navbar-brand:hover,
-.navbar-custom .navbar-brand:focus ,
-.navbar-custom .nav li a:hover,
-.navbar-custom .nav li a:focus {
-  color: {{ site.hover-col }};
-}
-
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
   -webkit-transition: padding .5s ease-in-out;
@@ -152,7 +138,7 @@ hr.small {
 }
 
 .navbar-custom.top-nav-short .navbar-brand-logo {
-  padding-top: 5px;
+  padding-top: 4px;
 }
 
 @media only screen and (min-width: 768px) {
