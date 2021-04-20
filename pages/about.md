@@ -33,4 +33,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           </div>
           <hr>
           <button type="submit" class="btn btn-primary">Submit</button>
+  
+  <form action="https://getform.io/f/69613665-b8a2-4a8d-a46e-0be42800cbc8" method="POST">
+
+  <input type="text" name="name">
+  <input type="email" name="email">
+  <input type="text" name="message">
+  <button type="submit">Send</button>
+
         </form>
+
+        
