@@ -26,14 +26,14 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #00d656;
+  color: #08d126;
 }
 a:hover,
 a:focus {
-  color: #00d656;
+  color: #08d126;
 }
 blockquote {
-  color: #00d656;
+  color: #08d126;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -43,8 +43,8 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: inherit;
-  border-radius: 3px;
+  border-color: #08d126;
+  border-radius: 4px;
 }
 
 .main-content {
@@ -66,14 +66,14 @@ hr.small {
 }
 
 ::-moz-selection {
-  color: #00d656;
+  color: #08d126;
   text-shadow: none;
-  background-color: {{ site.hover-col }};
+  background-color: #08d126;
 }
 ::selection {
   color: #00d656;
   text-shadow: none;
-  background-color: {{ site.hover-col }};
+  background-color: #08d126};
 }
 
 .disqus-comments {
@@ -94,7 +94,7 @@ hr.small {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: #00d656;
+  background-color: #08d126;
   border-bottom: 1px solid #EAEAEA;
   font-family: Arial, sans-serif;
   {% if site.navbar-img %}
@@ -162,9 +162,9 @@ hr.small {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background-color: #00d656;
+  background-color: #08d126;
   text-decoration: none !important;
-  border-width: 0 1px 1px 1px;
+  border-width: 0 2px 1px 1px;
   font-weight: normal;
 }
 @media only screen and (max-width: 767px) {
@@ -190,7 +190,7 @@ hr.small {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #eaeaea;
+    border: 2px solid #08d126;
     border-width: 0 1px 1px;
   }
 }
@@ -332,7 +332,7 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: {{ site.link-col }};
+  color: #08d126;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -390,18 +390,18 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 20px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-family: Arial, sans-serif;
+  font-weight: 200;
   margin: 10px 0 0;
   color: white;
   text-shadow: 2px 2px 2px #000000;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
-  color: white;
+  color: #08d126;
  text-shadow: 2px 2px 2px #000000;
 }
 
@@ -439,7 +439,7 @@ footer .theme-by {
   padding: 10px 5px;
   background-color: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #08d126;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
