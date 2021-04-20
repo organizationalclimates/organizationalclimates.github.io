@@ -132,9 +132,14 @@ hr.small {
     text-decoration: underline;
 }
 	
-.navbar-custom .nav li a:hover {
+.navbar-custom .nav > li a:hover {
     text-decoration: underline;
 }
+
+.navbar-custom .nav .navlinks-container:hover {
+    text-decoration: underline;
+}
+
 
 .navbar-custom .navbar-brand:hover {
     text-decoration: underline;
