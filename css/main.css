@@ -165,7 +165,7 @@ hr.small {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 0px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -413,26 +413,24 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 40px;
+  font-size: 35px;
   color: white; 
   font-weight: bold;
 
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 18px;
   line-height: 1.1;
   display: block;
   font-family: Helvetica, sans-serif;
-  font-weight: 300;
+  font-weight: normal;
   margin: 10px 0 0;
   color: white;
-  text-shadow: 2px 2px 2px #000000;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
   color: white;
- text-shadow: 2px 2px 2px #000000;
 }
 
 .caption {
