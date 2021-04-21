@@ -1,7 +1,8 @@
 ---
 layout:page
-title: "Welcome to Corporate Climates"
 ---
+
+A media and research project to advance the tech workers movement.
 
 ![image-title-here](/img/mainimage.jpg){:class="img-responsive"}
 
