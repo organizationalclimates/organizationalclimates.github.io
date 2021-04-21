@@ -1,5 +1,5 @@
 ---
-layout:page
+layout:minimal
 title: "Welcome to Corporate Climates"
 ---
 
