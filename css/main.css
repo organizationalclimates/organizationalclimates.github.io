@@ -127,8 +127,9 @@ hr.small {
 
 
 .navbar-custom .nav li a {
-  font-weight: normal;
+  font-weight: bold;
   color: {{ site.navbar-text-col }};
+	
 }
 
 .navbar-custom:hover {
