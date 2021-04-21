@@ -2,6 +2,7 @@
 layout: page
 permalink: "about"
 title: "About"
+nav-short: true
 bigimg:
   - "/img/mainheader.jpg"
 ---
