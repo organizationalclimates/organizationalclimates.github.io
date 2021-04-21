@@ -1,5 +1,6 @@
 ---
 layout:page
+title: "Welcome to Corporate Climates"
 ---
 
 ![image-title-here](/img/mainimage.jpg){:class="img-responsive"}
