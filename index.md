@@ -3,6 +3,8 @@ layout:minimal
 title: "Welcome to Corporate Climates"
 ---
 
+Check title
+
 ![image-title-here](/img/mainimage.jpg){:class="img-responsive"}
 
 
