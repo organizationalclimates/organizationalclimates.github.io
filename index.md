@@ -2,8 +2,7 @@
 layout:minimal
 title: "Welcome to Corporate Climates"
 ---
-
-Check title
+<center>An academic research project to advance the financial sustainability movement.</center>
 
 ![image-title-here](/img/mainimage.jpg){:class="img-responsive"}
 
