@@ -1,5 +1,5 @@
 --
-layout: post
+layout: oldpage
 title: "Second Post"
 ---
 
