@@ -1,8 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Collective Action +
-Organizational Climates
+title: Collective Action Organizational Climates
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -192,6 +191,12 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
+      show-avatar: true
+        -
+    scope:
+      path: "" # all files
+    values:
+      layout: "oldpage"
       show-avatar: true
 
 # Use tags index page and make tags on each post clickable
