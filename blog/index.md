@@ -6,6 +6,15 @@ title: What's New!
   <p style="font-size=x-large; font-weight:bold; font-style:italic;"><a href="tags.html">Tags Used in Posts</a> | <a href="http://www.r-bloggers.com/">R-bloggers</a></p>
 </div>
 
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="/github-pages-with-jekyll{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
