@@ -1,7 +1,6 @@
 ---
 layout: oldpage
 title: Community
-subtitle: "The union drive in Bessemer was a historic one, but Amazon workers have been organizing for decades, going back to the year 2000"
 permalink: "community"
 bigimg:
   - "/img/mainheader.jpg":
