@@ -1,6 +1,5 @@
 ---
-layout: oldpage
-type: post
+layout: post
 title: Blog
 permalink: "blog"
 subtitle: Recent posts
