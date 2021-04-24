@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: oldpage
 title: Sample blog post
 subtitle: Each post also has a subtitle
 tags: [test]
