@@ -1,5 +1,5 @@
 ---
-layout:page
+layout:oldpage
 title: "Welcome to Corporate Climates"
 ---
 <center>An academic research project to advance the financial sustainability movement.</center>
