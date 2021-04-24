@@ -31,11 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
               <option>Staying up to date</option>
             </select>
           </div>
-          <hr>
-          <div class="form-group mt-3">
-            <label class="mr-2">Upload your CV:</label>
-            <input type="file" name="file">
-          </div>
-          <hr>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+   
+  <button type="submit" class="btn btn-primary">Submit</button>
+ 
